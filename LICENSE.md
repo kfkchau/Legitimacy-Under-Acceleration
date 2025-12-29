@@ -52,5 +52,14 @@ To use, adapt, or implement those frameworks, please refer to their respective r
 **License**
 
 © 2025 Kelvin Chau · *Legitimacy Under Acceleration*.  
-This piece may be shared non-commercially with attribution but not modified or republished without permission.  
+
 Licensed under **CC BY-NC-ND 4.0** (see `LICENSE.md` in this repository for details).
+
+---
+
+© Kelvin Chau, 2025  
+This piece is part of the [Legitimacy Under Acceleration](https://github.com/kfkchau/Legitimacy-Under-Acceleration/) project.  
+It may be shared non-commercially with attribution but not modified or republished without permission.  
+Licensed under [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
