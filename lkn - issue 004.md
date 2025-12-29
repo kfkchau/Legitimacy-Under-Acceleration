@@ -1,4 +1,5 @@
-## It’s Not Your AI System. It’s Your Rule Ecosystem.
+## DRAFT - It’s Not Your AI System. It’s Your Rule Ecosystem.  
+*Why so many “good” AI policies still break in practice — and where the failure really starts.*
 
 Most AI governance stories sound tidy on slides.
 
@@ -58,7 +59,7 @@ When that web is implicit, three things happen:
 - enforcement drifts and becomes discretionary,  
 - changes happen ad hoc or only after a crisis.
 
-AI didn’t invent this problem. Privacy law, health regulation, benefits systems and infrastructure approvals were already showing the cracks.
+AI didn’t invent this problem. Privacy law, health regulation, welfare systems and infrastructure approvals were already showing the cracks.
 
 AI just pushes on **every weak joint at once**:
 
@@ -93,6 +94,12 @@ In other domains, it’s:
 - repeated misclassifications in a benefits system,  
 - infrastructure projects stuck in years-long queues.
 
+The environment includes how **rule resources** and **rule users** behave in reality:
+
+- rule resources: the systems, assets and objects the rules actually govern  
+  (servers, models, data, forms, ships, planes, bank accounts, land, etc.)  
+- rule users: how the people subject to the rules actually act under them.
+
 This is where reality lives.
 
 ### 3.2 Rule Makers – who writes and maintains the rules
@@ -115,7 +122,7 @@ They decide:
 
 - adopt a rule,  
 - change it,  
-- or retire it:
+- or retire it.
 
 Executives, boards, regulators, risk committees, steering groups.
 
@@ -140,14 +147,16 @@ They experience the rule as:
 - what I’m expected to do,  
 - and what I’ll get in trouble for.”
 
+They are the ones the rule actually **applies** to – its targets and its intended beneficiaries.
+
 ### 3.5 The plumbing: rule resources and rule administration
 
-Between these roles sit the **rule resources** and **rule administration**:
+Between these roles sit:
 
-- rule resources:
-  - policies, standards, playbooks, forms, templates, knowledge bases, systems;  
-- rule administration:
-  - the processes for registering rules, updating them, communicating them, enforcing them, and logging decisions.
+- the **rule resources** – the things directly governed by the rule:  
+  systems, data, workflows, assets, contracts, devices, money, infrastructure;  
+- the **rule administration** – the processes and tools for keeping rules alive:  
+  how rules are registered, updated, communicated, enforced and logged.
 
 Those are the channels the four roles use to interact:
 
@@ -156,7 +165,7 @@ Those are the channels the four roles use to interact:
 - Decision Makers approving via minutes and registers,  
 - Rule Users interacting with portals, KBs, workflows and forms.
 
-If you zoom out, you don’t need the full detail.
+If you zoom out, you don’t need every technical detail.
 
 What matters is:
 
@@ -202,7 +211,7 @@ When Environment → Rule Makers is weak, your rulebook and reality slowly diver
 
 ---
 
-### 4.2 Rule Makers → Decision Makers: fuzzy options, fuzzy decisions
+### 4.2 Rule Makers → Decision Makers: fuzzy options, optics-driven decisions
 
 **What this edge should do**
 
@@ -220,7 +229,8 @@ Turn “we have a problem” into:
   - or “we should probably do something about…”  
 - Decision Makers:
   - underreact, overreact, or delay,  
-  - make decisions that look political rather than principled,  
+  - make decisions that look driven by optics and short-term pressure  
+    rather than by a clear, stable rationale,  
   - and the reasoning never gets written down.
 
 **AI example**
@@ -268,8 +278,8 @@ Communicate change from a **source Rule Users recognise as legitimate**:
 
 **Non-AI example**
 
-- Clinicians or caseworkers hearing about policy changes informally,  
-- long before any official, clear guidance appears.
+- A migrant arriving in a new country is bound by thousands of pages of rules scattered across government websites.  
+- They can miss out on benefits they’re entitled to – or fall into breach of obligations – not out of bad intent, but because the system never made the rules findable or legible to them.
 
 When Decision Makers → Rule Users is weak, you get **paper governance**: rules exist, but they don’t govern behaviour.
 
@@ -289,6 +299,7 @@ Translate rule text into:
   - “ensure fairness”,  
   - “respect privacy”,  
   - “act proportionately”.  
+- In the rush to show “we take this seriously”, institutions produce complex, defensive documents optimised for optics and liability, not for clarity.  
 - There are no short, concrete guides:
   - how to implement,  
   - what to log,  
@@ -308,7 +319,7 @@ Translate rule text into:
 - Privacy policies no one can connect to actual workflow decisions,  
 - leading to over-blocking in some places and over-sharing in others.
 
-When Rule Makers → Rule Users is weak, you get **governance by folklore**.
+When Rule Makers → Rule Users is weak, you get **governance by folklore**. Rules become something people work around, not with.
 
 ---
 
@@ -381,7 +392,7 @@ For each rule, write down:
 
 You don’t need to be perfect. You just need a first honest pass.
 
-### 6.2 Make the edges someone’s job
+### 6.2 Make the edges someone’s job – and find the bottlenecks
 
 For each of the four edges, ask:
 
@@ -391,15 +402,23 @@ For each of the four edges, ask:
   - communicating decisions to Rule Users in one place they trust?  
   - maintaining short, concrete “Tuesday guidance” for Rule Users?
 
-You can express this in:
+Express this in whatever notation you already use:
 
 - a RACI,  
 - a one-page map per rule,  
 - an architecture or process diagram.
 
-The point is not the notation. It’s that **someone owns each edge**.
+The point is not the diagram type. It’s that **someone owns each edge**.
 
-### 6.3 Tie incident reviews to ecosystem edges
+Once you draw it, bottlenecks and failure points become visible:
+
+- edges where no-one is clearly in charge,  
+- roles carrying too many flows,  
+- places where signals routinely die.
+
+That’s the first structural diagnosis. In later work I use lifecycle and meta-governance lenses to go deeper, but most organisations don’t even have this first map.
+
+### 6.3 Tie incident reviews to ecosystem edges – and make rules monitorable
 
 Next time something goes wrong – AI or not – don’t just ask:
 
@@ -411,13 +430,25 @@ Also ask:
 - “who saw what, and why didn’t it flow to the right place?”  
 - “was this a rule failure, or an ecosystem failure?”
 
-Over time, you’ll see patterns:
+And a harder question:
 
-- Environment → Rule Makers always weak in certain domains,  
-- Decision Makers → Rule Users consistently failing for cross-border policies,  
-- Rule Makers → Rule Users weak where policies are written in purely legal language.
+- “Could this rule ever have been monitored properly, or is it written so vaguely that no-one could tell if it’s working?”
 
-That gives you a structural to-do list that’s more honest than “write better policies”.
+Good rules are **monitor-ready**:
+
+- they imply observable conditions,  
+- you can wire them to metrics or logs if you choose to.
+
+Bad rules are **feel-good**:
+
+- they’re impossible to instrument,  
+- impossible to tell if you’re complying,  
+- impossible to tie to outcomes.
+
+Over time, asking these questions builds:
+
+- a pattern library of weak edges,  
+- and a case for changing structure and rule design, not just adding more controls.
 
 ### 6.4 Use AI to justify reworking the landscape, not just patching it
 
@@ -441,16 +472,18 @@ You don’t need the spec to get most of the benefit.
 Most of the impact comes from:
 
 - mapping roles and edges honestly,  
-- and making sure each edge is somebody’s job.
+- making sure each edge is somebody’s job,  
+- and treating AI as a stress-test that justifies cleaning the landscape, not plastering over it.
 
 ---
 
-## 7. What’s next: lifecycles and metabolism
+## 7. What’s next: lifecycles, performance and metabolism
 
-Once you can see your rule ecosystem, the next natural question is:
+Once you can see your rule ecosystem, the next natural questions are:
 
-> “How do our rules actually change over time –  
-> without accreting forever or collapsing in a crisis?”
+- “How do these rules actually **perform** over time?”  
+- “How does our **rule administration** perform?”  
+- “How do rules move from draft to active to retired without ossifying or exploding in complexity?”
 
 That’s the **rule metabolism / lifecycle** side:
 
@@ -459,7 +492,12 @@ That’s the **rule metabolism / lifecycle** side:
 - clear authority,  
 - legible trails.
 
-I’ve written about that separately in my piece on *the metabolism of rules* – how governance debt forms when rule intake outpaces rule metabolism.
+In my next pieces I’ll introduce a lifecycle lens with **domain- and tier-agnostic** rule-administrative steps:
+
+- so you can pinpoint more precisely where bottlenecks and breakdowns come from,  
+- and fix them without having to reinvent governance from scratch for every domain.
+
+I’ve already sketched part of this in my article on *the metabolism of rules* – how governance debt forms when rule intake outpaces rule metabolism.
 
 Together, the two lenses – **ecosystem** and **metabolism** – are about one thing:
 
