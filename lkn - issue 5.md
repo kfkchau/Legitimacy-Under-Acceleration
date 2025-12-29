@@ -262,3 +262,11 @@ If we can’t do that, we’re not governing AI.
 We’re just adding more signs to a junction that people no longer know how to cross.
 
 That’s the city we’re actually governing. The question is whether we’re willing to see it that way – and build rule systems and value systems that can survive acceleration without losing the people who live in it.
+
+---
+
+© Kelvin Chau, 2025  
+This work is part of the [Legitimacy Under Acceleration](https://github.com/kfkchau/Legitimacy-Under-Acceleration/) project.  
+Licensed under [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
