@@ -1,5 +1,5 @@
-## DRAFT - It’s Not Your AI System. It’s Your Rule Ecosystem.  
-*Why so many “good” AI policies still break in practice — and where the failure really starts.*
+## DRAFT - The Rule Ecosystem: The Missing Foundation of AI Governance 
+> Whether you’re governing AI or anything else, you can’t keep rules legitimate if you don’t know who sees reality, who writes them, who decides, and who has to live under them.
 
 Most AI governance stories sound tidy on slides.
 
