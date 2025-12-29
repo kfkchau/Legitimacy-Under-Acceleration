@@ -46,3 +46,11 @@ These frameworks are **not stored in this repository**. They are hosted in their
 (or another license explicitly stated in those repositories).
 
 To use, adapt, or implement those frameworks, please refer to their respective repositories and license files. Referencing them here does not modify their original license terms.
+
+---
+
+**License**
+
+© 2025 Kelvin Chau · *Legitimacy Under Acceleration*.  
+This piece may be shared non-commercially with attribution but not modified or republished without permission.  
+Licensed under **CC BY-NC-ND 4.0** (see `LICENSE.md` in this repository for details).
