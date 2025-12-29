@@ -1,267 +1,254 @@
-# DRAFT - THE CITY WE’RE ACTUALLY GOVERNING: Rules, Routes, and the Governance–Economic System
+## DRAFT - The City We’re Actually Governing with AI
 
-We talk about AI governance as if it’s mostly about **rules**:  
-principles, risk categories, impact assessments, controls, audits.
+Most AI governance talk lives in documents:
 
-If you’re living **inside** a system – as a worker, a citizen, a founder, a policymaker – you experience something different:
+- principles, risk classes, and impact assessments  
+- obligations for providers and deployers  
+- audits, evaluations, certifications  
 
-- not just the rules on paper,  
-- but the **routes** that are actually open to you.
+That’s the **rule side** of the story.
 
-That’s the gap *Legitimacy Under Acceleration* is interested in:  
-not just the laws and frameworks, but the **city** they create.
+But if you ask the people living under these systems – workers, professionals, founders, citizens – they don’t experience “AI governance” as a PDF.
+
+They experience:
+
+- which **paths** through work and life are still open  
+- which roles still feel meaningful  
+- what kinds of effort still “count”
+
+That’s the **value side**. And AI is rewiring both at once.
+
+This is the city we’re actually governing, whether we admit it or not.
 
 ---
 
-## 1. Two halves of the same city
+## Rules: the traffic system of the city
 
-I work with a simple image: a city being rebuilt while people are still living in it.
+Start with the familiar half.
 
-### 1.1 The rule side: traffic system and institutions
-
-One half of the city is built out of **rules**.
-
-These are the traffic lights and signposts of social life:
+One side of the city is built out of **rules** – the traffic system of social life:
 
 - laws and regulations  
 - policies and standards  
-- procedures, guidelines and professional codes  
-- unwritten norms that everyone “just knows”
+- procedures, guidance and professional codes  
+- the unwritten norms everyone “just knows”
 
-Institutions are where these rule systems live and get operated:
+Institutions are the places that host and operate this machinery:
 
-- parliaments and ministries  
-- regulators and courts  
+- parliaments, ministries and regulators  
+- courts and tribunals  
 - companies and boards  
-- standards bodies and professional associations  
-- universities, unions, industry groups
+- standards bodies, industry groups, unions  
+- universities and professional associations
 
 Together, they form an **ecosystem of governance mechanisms**:
 
-- how rules are made,  
-- how they’re interpreted,  
-- how they’re enforced,  
-- how they change,  
-- and how they’re explained when people push back.
+- how rules are made  
+- how they’re interpreted  
+- how they’re enforced  
+- how they change (or don’t)  
+- how they’re explained when people push back
 
-This is the part most AI governance frameworks focus on.
+This is the part most AI frameworks try to address:
 
-### 1.2 The value side: routes, routines, and what “counts”
+- UNESCO / OECD principles  
+- NIST RMF, ISO/IEC 42001  
+- the EU AI Act  
+- corporate “Responsible AI” guidelines  
 
-The other half of the city is built out of **value**.
+They’re mostly traffic-code work: deciding what’s allowed at the junction.
+
+Important. Necessary. But not the whole city.
+
+---
+
+## Routes: the value side we almost never talk about
+
+The other side of the city is built out of **value**.
 
 People constantly make judgements about what matters:
 
 - which work deserves respect  
-- which products are worth paying for  
+- which products and services are worth paying for  
 - which careers feel meaningful  
-- which futures are worth aiming at
+- which futures feel worth aiming at
 
-In the city, this shows up as the **routes people actually drive**:
+In the city, that shows up as the **routes people actually drive**:
 
-- the commutes and routines they stick to  
-- the neighbourhoods they crowd  
-- the shortcuts and detours they take  
-- the areas they quietly avoid
+- routines and commutes they stick to  
+- neighbourhoods that fill up  
+- areas they quietly avoid  
+- shortcuts, detours, and side-streets that only locals know
 
-Those everyday route choices stand in for **value signals**:  
-all the ways the world tells us what is “worth it”:
+Those everyday route choices stand in for **value signals** – all the ways the world tells us what is “worth it”:
 
 - salaries and prices  
-- promotions and titles  
-- likes, rankings and invitations  
-- informal status and reputation
+- promotions, titles and bonuses  
+- rankings, likes, invitations  
+- subtle status and reputation
 
-Markets are where those judgements get **compressed** into numbers:  
-prices, wages, KPIs, share prices.
+Markets compress those judgements into numbers.  
+The wider economy takes those signals and feeds them back into people’s lives:
 
-The wider economy is the big **feedback loop** that:
+- what gets funded  
+- which jobs are attractive  
+- what feels like success or failure  
 
-- takes those signals,  
-- feeds them back into people’s lives,  
-- and nudges what feels possible or worthwhile next:
-  - what gets funded,  
-  - which jobs are attractive,  
-  - what counts as success or failure.
-
-Most of this never appears in a law or a framework.  
-But it determines whether people experience the system as **liveable**.
+Most of this never appears in a regulation. But it determines whether people experience a system as **liveable and fair**, or as something they’re just surviving.
 
 ---
 
-## 2. The governance–economic system: rules + routes
+## AI is changing both – and our governance only looks at one
 
-Put those halves together and you get what I call the **governance–economic system**:
-
-- the **rule layer** – how decisions are structured, constrained and contested  
-- the **value layer** – how effort, contribution and risk are recognised and rewarded
-
-You can’t really understand one without the other:
-
-- rules that ignore value signals drift into irrelevance or provoke backlash  
-- value signals without rule structure drift into exploitation or collapse
-
-Historically, we’ve separated the study of these halves:
-
-- public law, political theory and public administration on the **rule side**  
-- economics, finance and management on the **value side**
-
-Under AI acceleration, that split stops being tenable.
-
-AI is reconfiguring **how rules are applied**  
-*and* **what kinds of work and contribution “count”** at the same time.
-
----
-
-## 3. How acceleration breaks the alignment
-
-Acceleration isn’t just “faster innovation”. It’s:
+Acceleration isn’t just “faster tech”. It’s:
 
 - faster **information flow**  
 - faster **coordination**  
-- faster **feedback loops** – social, economic, political
+- faster **feedback loops** – social, economic, political  
 
-That hits both halves of the city at once.
+AI sits right in the middle of that.
 
-### 3.1 On the rule side
+On the **rule side**, we’re adding:
 
-We see:
+- new principles and codes  
+- new obligations and reporting  
+- new oversight committees  
+- new risk categories for AI systems
 
-- constant demands for new rules and standards  
-- more complex, layered obligations (UNESCO, OECD, NIST, EU, ISO, national law, sectoral codes)  
-- institutions struggling to keep up with:
-  - new models  
-  - new use-cases  
-  - new kinds of harm and failure
+On the **value side**, AI is quietly changing:
 
-Most of the global governance stack is still:
-
-- **paper-first** – PDF principles and guidelines  
-- **model-centric** – thinking in terms of “systems” and “providers”, not actual workflows  
-- **slow to metabolise** – weak mechanisms for:
-  - retiring bad rules,  
-  - reconciling contradictions,  
-  - reacting coherently to new evidence
-
-So we get traffic lights that change late, or not at all.
-
-### 3.2 On the value side
-
-At the same time, AI and automation are reshaping:
-
-- which tasks humans still do  
+- which tasks humans still perform  
 - which skills are rewarded  
-- which roles are structurally fragile
+- which roles become structurally fragile
 
-People use their work to answer questions like:
+People use their work to answer:
 
-- “What am I actually good at?”  
-- “What do people rely on me for?”  
-- “What kind of life am I building here?”
+- *What am I actually good at?*  
+- *What do people rely on me for?*  
+- *What kind of life am I building here?*
 
-When AI moves into the parts of work people were proud of:
-
-- writing, analysing, diagnosing, designing, coordinating –  
-the visible **routes** through the city change:
+When AI moves into the parts of work people were proud of – writing, analysing, diagnosing, coordinating, designing – the **routes** through the city change:
 
 - some career paths thin out or disappear  
 - others become overcrowded and precarious  
-- new paths emerge that aren’t yet recognised or rewarded
+- new paths appear that aren’t yet recognised or rewarded  
 
-The risk is simple:
+You can end up with a situation where:
 
-> Even if the traffic system is “safe and compliant”,  
-> people can feel like there are fewer meaningful journeys left for them to make.
+- the **traffic system** looks “safe and compliant” on paper  
+- but people feel like there are fewer meaningful journeys left for them to make
 
-That’s how legitimacy leaks out.
+That’s not just a labour-market problem. It’s a **legitimacy problem**.
 
 ---
 
-## 4. Why AI governance can’t stay rule-only
+## Why a rule-only view of AI governance isn’t enough
 
-Most current AI governance efforts sit almost entirely on the **rule side**:
+Most AI governance work today sits almost entirely on the **rule side**:
 
-- principles, obligations, risk classes  
-- impact assessments and audits  
-- definitions of high-risk vs low-risk systems
+- defining risk levels and prohibited uses  
+- specifying documentation and assessments  
+- adding controls and approvals  
 
-That’s necessary. It’s not sufficient.
+All necessary. None of it wrong.
 
-Three things follow if you take the city seriously:
+The problem is what’s *missing*:
 
-1. **Rules have to be engineered for operations, not just declared.**  
-   - Governance has to show up in:
-     - workflows,  
-     - task boundaries,  
+1. **No clear view of how rules meet actual workflows**  
+   - How is this rule wired into:
+     - tasks,  
+     - roles,  
+     - tools,  
      - logs,  
-     - escalation paths –  
-     not just in policy docs.
+     - escalation paths?  
+   - Can a person under the system explain:
+     - *“Who decided this, under which rule, and who could have stopped it?”*
 
-2. **You can’t ignore what the system does to available routes.**  
-   - A fully “compliant” system that quietly:
-     - erodes meaningful work,  
-     - hides whole categories of contribution,  
-     - or locks people into dead-end tracks,  
-     is still a governance failure.
+2. **No visibility into what happens to human routes**  
+   - As AI rolls out, are there still:
+     - meaningful paths for people to grow?  
+     - visible ways to contribute and be recognised?  
+   - Or are we silently:
+     - hollowing out roles,  
+     - turning professionals into supervisors of systems they don’t believe in,  
+     - pushing valuable work (care, mentoring, glue work) off the metrics?
 
-3. **The two halves interact under stress.**  
-   - When value signals move faster than rule systems can adapt:
-     - people find informal workarounds,  
-     - ignore rules that don’t fit reality,  
-     - or disengage.  
-   - When rules move faster than shared value and understanding:
-     - governance starts to feel imposed and illegitimate.
+3. **No language for the interaction between rules and value**  
+   - When value signals move faster than rule systems can adapt, people route around rules.  
+   - When rules move faster than shared understanding and value, they feel imposed and arbitrary.
 
-AI accelerates both sides:
-
-- the pace of decisions and rule-enforcement,  
-- the churn in what kinds of work and judgement remain human.
-
-Governance that only stares at “AI systems” and risk categories will miss this.
+If AI governance stays “rule-only”, it will miss where legitimacy is actually leaking.
 
 ---
 
-## 5. Legitimacy Under Acceleration: what this project is trying to do
+## Thinking in terms of a governance–economic system
 
-*Legitimacy Under Acceleration* starts from this city picture because it forces two questions at once:
+I find it more honest to talk about a **governance–economic system**:
 
-1. **Rule side:**  
-   - How do we design governance architectures that:
-     - can be wired into real workflows,  
-     - can change under pressure without falling apart,  
-     - and can be understood and contested by the people they bind?
+- **Rule layer**  
+  How we structure, constrain and contest decisions:
+  - laws, policies, standards, procedures, escalation rules.
 
-2. **Value side:**  
-   - How do we support new forms of contribution, recognition and meaning:
-     - when AI takes over tasks people used to rely on for their identity,  
-     - and when old career routes are no longer the centre?
+- **Value layer**  
+  How effort, contribution and risk are recognised and rewarded:
+  - pay, status, opportunity, voice.
 
-Some of the work I’m doing to explore this:
+Under AI acceleration, these two layers are colliding:
 
-- a **task boundary framework** – a way of decomposing work so we can say, clearly:
-  - what stays human-only,  
-  - what becomes AI-assisted,  
-  - what can be automated safely,  
-  and explain why.
-- an **open meta-governance kernel** – rules of rule-change, so that:
-  - rules don’t just accrete,  
-  - institutions can retire or adapt them as reality shifts,  
-  while leaving a legible trail of how and why.
-- a **governance–economic lens** – tools for looking at:
-  - how rules and value signals interact,  
-  - where work and worth are drifting apart,  
-  - and where AI is quietly shutting down human routes.
+- rules are being adapted to fit AI systems  
+- AI systems are reshaping which kinds of work and judgement still “count”
 
-The city metaphor is not decoration. It’s a discipline:
+If you only look at one layer, you get blindsided by the other.
 
-> Every time we talk about “AI governance”,  
-> we should be able to point to both a **traffic rule** that changed  
-> and a **human route** that stayed open or became possible.
+A technically compliant AI rollout that:
 
-If we can’t do that, we’re not governing AI.  
-We’re just adding more signs to a junction that people no longer know how to cross.
+- erodes meaningful work,  
+- hides whole categories of contribution,  
+- or quietly shuts down paths people relied on  
 
-That’s the city we’re actually governing. The question is whether we’re willing to see it that way – and build rule systems and value systems that can survive acceleration without losing the people who live in it.
+…is still a governance failure, even if every box on the checklist is ticked.
+
+---
+
+## What Legitimacy Under Acceleration is trying to do
+
+Under *Legitimacy Under Acceleration*, I’m treating this city picture as a design constraint, not just a metaphor.
+
+For me, that means working on both sides at once:
+
+- **On the rule side**  
+  Designing governance architectures that:
+  - can be wired into real workflows,  
+  - can change under pressure without collapsing,  
+  - and leave trails people can understand and challenge.
+
+  (Task-boundary work, meta-governance “kernels”, governance-first orchestration.)
+
+- **On the value side**  
+  Facing the fact that:
+  - people’s sources of self-worth will have to change,  
+  - old career routes won’t be the centre forever,  
+  and asking:
+  - how do we support new forms of contribution, recognition and meaning  
+    when AI takes over the tasks people once used to answer  
+    *“what am I good for here?”*
+
+I’m not claiming to have all the answers. What I’m trying to do is hold both halves of the city in view when we talk about “AI governance”.
+
+Because every time we say that phrase, we should be able to point to:
+
+- a **traffic rule** that changed, *and*  
+- a **human route** that stayed open or became possible
+
+If we can’t, then we’re not really governing the system –  
+we’re just adding more signs to a junction people no longer know how to cross.
+
+---
+
+If this way of looking at AI governance resonates – especially if you’re working on RAIO, architecture, policy, or you’re living through these shifts in your own profession – I’m building out this work under *Legitimacy Under Acceleration*.
+
+Happy to be in conversation with others who are trying to keep both **rules** and **routes** in view.
+
 
 ---
 
