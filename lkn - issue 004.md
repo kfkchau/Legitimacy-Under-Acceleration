@@ -1,6 +1,8 @@
 ## DRAFT - The Rule Ecosystem: The Missing Foundation of AI Governance 
 > Whether you’re governing AI or anything else, you can’t keep rules legitimate if you don’t know who sees reality, who writes them, who decides, and who has to live under them.
 
+It’s not your AI system. It’s your rule ecosystem.
+
 Most AI governance stories sound tidy on slides.
 
 - We have principles.  
