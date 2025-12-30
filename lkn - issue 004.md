@@ -327,6 +327,8 @@ When Rule Makers → Rule Users is weak, you get **governance by folklore**. Rul
 
 ## 5. AI as a stress test for existing policy domains
 
+I first started tracing this pattern in 2014 in my academic work, and between 2016 and 2021 kept running into the same rule-ecosystem failure across complex training systems, large engineering programmes, enterprise risk and security, and major procurement work. AI is just the latest place where that wiring is breaking in public.
+
 If you work in privacy, health, welfare, finance, education, AI doesn’t just add a new thing to govern.
 
 It stress-tests the **rule landscape you already have**.
