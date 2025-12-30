@@ -1,6 +1,6 @@
 **How Rules Actually Change: The Rule Lifecycle Behind AI Governance**  
 
-*Most AI governance fails between “we should change this rule” and anything actually changing. A simple, domain-agnostic rule lifecycle makes that gap visible – and fixable.*
+> *Most AI governance fails between “we should change this rule” and anything actually changing. A simple, domain-agnostic rule lifecycle makes that gap visible – and fixable.*
 
 ---
 
@@ -12,16 +12,9 @@ We don’t have a good answer to a more basic question:
 
 In an earlier piece I called this the **metabolism of rules** – how quickly and clearly a rule system notices the world has changed, updates its assumptions, and gets new rules all the way to the people and systems that use them.
 
-Then we looked at the **rule ecosystem** – the actors around rules:
-
-- the **rule users** who live under them  
-- the **rule makers** who operate the rule system  
-- the **decision makers** who approve or reject rule changes  
-- the **rule resources** (systems, models, documents, assets) rules act on
-
 This article goes one level deeper.
 
-It’s about the **rule lifecycle**: the small set of stages every rule must pass through if you want governance to keep up with AI, automation, and a fast environment.
+It focuses on the **rule lifecycle**: the small set of stages every rule must pass through if you want governance to keep up with AI, automation, and a fast environment. In a later piece I’ll map the full rule ecosystem around those rules — the users, systems, makers and decision authorities they sit inside — but you don’t need that detail to use the lifecycle lens.
 
 You don’t need to believe in any one framework to see the pattern. If you’ve ever thought:
 
@@ -430,6 +423,8 @@ That map becomes:
 
 > the governance picture you walk into a meeting with,  
 > instead of a stack of policy PDFs.
+
+I’ll show an example of what this kind of map looks like in the future rule ecosystem piece, but you don’t need to wait for that to sketch a rough version in your own domain.
 
 ---
 
