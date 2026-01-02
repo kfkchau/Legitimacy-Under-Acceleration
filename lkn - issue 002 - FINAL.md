@@ -323,3 +323,12 @@ If you like stress-testing ideas with first principles, try this:
 If you’ve lived this failure — in social policy, markets, safety, grids, or somewhere else — and you have real documents (good or bad), I’d value a co-review.
 
 If you’re curious about the kernel itself (UGLS), bring one concrete change from your context, and we can walk through the lifecycle and see where the trail holds and where it breaks.
+
+---
+
+© Kelvin Chau, 2025  
+This piece is part of the [Legitimacy Under Acceleration](https://github.com/kfkchau/Legitimacy-Under-Acceleration/) project.  
+It may be shared non-commercially with attribution but not modified or republished without permission.  
+Licensed under [Creative Commons Attribution–NonCommercial–NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)  
+For attribution, citation, or inquiries, please refer to:  
+🔗 [https://au.linkedin.com/in/kfkchau](https://au.linkedin.com/in/kfkchau)
