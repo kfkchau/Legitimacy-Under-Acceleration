@@ -1,4 +1,4 @@
-#**Issue 2 | The Metabolism of Rules: Why Governance Fails in a Fast World**  
+# **Issue 2 | The Metabolism of Rules: Why Governance Fails in a Fast World**
 *Kelvin Chau*
 
 ---
